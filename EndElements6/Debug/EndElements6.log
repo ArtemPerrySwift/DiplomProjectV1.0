@@ -1,0 +1,9 @@
+﻿  matrix.h
+  mesh.cpp
+  MethEndElem6.cpp
+C:\Users\user\source\repos\EndElements6\MethEndElem6.cpp(109,9): warning C4101: s: неиспользованная локальная переменная
+C:\Users\user\source\repos\EndElements6\MethEndElem6.cpp(679,9): warning C4101: l: неиспользованная локальная переменная
+C:\Users\user\source\repos\EndElements6\MethEndElem6.cpp(1185,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  proglogact.cpp
+  Создание кода...
+  EndElements6.vcxproj -> C:\Users\user\source\repos\EndElements6\Debug\EndElements6.exe
